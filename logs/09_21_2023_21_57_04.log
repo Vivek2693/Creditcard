@@ -1,0 +1,5 @@
+[ 2023-09-21 21:57:04,675 ] 39 root - ERROR - An error occurred: This is a sample error.
+Traceback (most recent call last):
+  File "data_ingestion.py", line 35, in main
+    raise ValueError("This is a sample error.")
+ValueError: This is a sample error.
